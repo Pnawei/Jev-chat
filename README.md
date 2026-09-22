@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./docs/banner.svg" width="100%" alt="Jev 微信聊天分析工具 Banner">
+<img src="./docs/banner.png" width="100%" alt="Jev 微信聊天分析工具 Banner">
 
 # Jev 微信聊天意图分析
 
@@ -28,7 +28,7 @@
 
 ## 🖼️ 界面预览
 
-<img src="./docs/ui-preview.svg" width="100%" alt="界面预览">
+<img src="./docs/ui-preview.png" width="100%" alt="界面预览">
 
 - **左侧**：微信风格聊天气泡，对方消息下方自动展开分析卡片
 - **右侧**：文本输入区，粘贴聊天记录并选择"对方"发送者
@@ -71,8 +71,8 @@
 │   └── .env                   # API Key（不提交）
 │
 └── docs/                      # 文档图片
-    ├── banner.svg
-    └── ui-preview.svg
+    ├── banner.png
+    └── ui-preview.png
 ```
 
 ## 🚀 快速开始
