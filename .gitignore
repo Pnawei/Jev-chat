@@ -1,0 +1,75 @@
+# ======================
+# Logs
+# ======================
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ======================
+# Dependencies
+# ======================
+node_modules/
+.pnp
+.pnp.js
+
+# ======================
+# Build output
+# ======================
+dist/
+dist-ssr/
+*.local
+build/
+
+# ======================
+# Environment files
+# ======================
+.env
+.env.local
+.env.*.local
+
+# ======================
+# Python
+# ======================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+*.egg-info/
+.eggs/
+*.egg
+
+# ======================
+# Editor / IDE
+# ======================
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.trae/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ======================
+# OS
+# ======================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ======================
+# Misc
+# ======================
+*.local
+.cache/
+.temp/
